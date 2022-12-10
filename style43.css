@@ -1,0 +1,31 @@
+/* *{
+    color: rgb(94, 40, 243);
+} */
+
+header{
+    background-color: #e0caca;
+}
+
+section.my-article{
+    background-color: #8d8dda;
+}
+
+header p{
+    color: rgb(230, 32, 78);
+}
+li a{
+    color: rgb(151, 95, 21);
+}
+section.my-article h2{
+    color: #0ff11e;
+}
+
+h2+p{
+    color: rgb(49, 38, 206);
+}
+
+ul+p{
+    color: red;
+}
+
+
